@@ -18,7 +18,6 @@ export const FormsPage = () => {
         console.log(myForm);
     }
 
-    watch('email');
 
     return (
         <>
